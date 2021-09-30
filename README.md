@@ -1,4 +1,4 @@
-# multicore-n-planet-simulator
+# multicore-n-planet-simulator - Euler Method and Runge-Kutta 2
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 90/100

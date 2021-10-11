@@ -1,8 +1,12 @@
 # multicore-n-planet-simulator - Euler Method and Runge-Kutta 2
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 90/100, 1st in year.
+## Grade: 1st - 90/100, 1st in year (of 78 students).
 Vectorized and multicore n-body simulators written and extensively optimised in C++ for scalability to millions of particles/planets to be run on a single node of a supercomputer.
+## Demo video (taken from my [portfolio page](https://github.com/shadowbourne)):
+> ![Gifdemo1](https://user-images.githubusercontent.com/18665030/136667074-f1f25ed1-1a71-44f2-b94c-5503c86e52ec.gif)
+> 
+> Vectorized and multicore n-body simulator(s) written and extensively optimised in C++ for scalability to millions of particles/planets to be run on a single node of a supercomputer.
 
 ## Contents:
 * step-1.cpp contains the basic non-vectorized code for the n-body solver using the first-order Euler Method numerical time-stepping scheme (18/20).
